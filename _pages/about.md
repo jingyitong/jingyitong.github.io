@@ -4,7 +4,6 @@ title: about
 permalink: /
 subtitle: >
   Postdoctoral Research Associate, <a href="https://dyson.cornell.edu/">Charles H. Dyson School of Applied Economics and Management</a>, Cornell University
-  <br><span class="pronounce"><a href="https://www.youtube.com/watch?v=W867N2WPj8E">How to pronounce Jingyi?</a> Jing-Yi</span>
 
 profile:
   align: right
