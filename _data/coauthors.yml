@@ -1,0 +1,6 @@
+# Optional: link coauthor names on the Research page.
+# Example:
+# "zhang":
+#   - firstname: ["Wendong", "W."]
+#     url: https://example.com
+{}
