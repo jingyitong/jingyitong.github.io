@@ -6,6 +6,7 @@ title: Jingyi Tong # the website title (if blank, full name will be used instead
 first_name: Jingyi
 middle_name:
 last_name: Tong
+name_extra: 童敬宜 · Jìngyí Tóng # shown after your name on the home page; edit freely, or leave empty to hide
 contact_note: >
   Email is the best way to reach me.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
