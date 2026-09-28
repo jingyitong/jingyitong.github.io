@@ -1,0 +1,143 @@
+/*******************************************************************************
+ * Site-specific styles for jingyitong.github.io
+ * Larger, darker, easier-to-read text; clear buttons; paper list formatting.
+ ******************************************************************************/
+
+:root {
+  --global-text-color: #1a1a1a;
+  --global-theme-color: #b31b1b; // Cornell red for links and accents
+  --global-hover-color: #b31b1b;
+}
+
+body {
+  font-family: "Source Sans 3", "Helvetica Neue", Arial, sans-serif;
+  font-size: 1.15rem;
+  font-weight: 400;
+  line-height: 1.65;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.post-title {
+  font-family: "Source Sans 3", "Helvetica Neue", Arial, sans-serif;
+  font-weight: 600;
+}
+
+h2 {
+  font-size: 1.6rem;
+  margin-top: 2rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 1px solid var(--global-divider-color);
+}
+
+h3 {
+  font-size: 1.3rem;
+  margin-top: 1.5rem;
+}
+
+.navbar .nav-link {
+  font-size: 1.05rem;
+  font-weight: 600;
+}
+
+.post-description,
+.desc {
+  font-size: 1.15rem;
+  color: #444;
+}
+
+html[data-theme="dark"] .post-description,
+html[data-theme="dark"] .desc {
+  color: #ccc;
+}
+
+/* ---------- Profile column on the home page ---------- */
+
+.profile .more-info {
+  font-family: inherit;
+  font-size: 1rem;
+  line-height: 1.5;
+  text-align: center;
+
+  p {
+    display: block;
+  }
+}
+
+.profile-buttons {
+  display: flex;
+  gap: 0.5rem;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 0.9rem 0 0.6rem;
+}
+
+.profile-btn {
+  display: inline-block;
+  padding: 0.45rem 1rem;
+  border: 2px solid var(--global-theme-color);
+  border-radius: 6px;
+  color: var(--global-theme-color) !important;
+  font-weight: 600;
+  font-size: 1rem;
+  text-decoration: none !important;
+  transition:
+    background-color 0.15s,
+    color 0.15s;
+
+  &:hover {
+    background-color: var(--global-theme-color);
+    color: #fff !important;
+  }
+}
+
+.profile-links {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  font-size: 1.7rem;
+  margin: 0.4rem 0;
+
+  a {
+    color: var(--global-text-color) !important;
+    text-decoration: none !important;
+
+    &:hover {
+      color: var(--global-theme-color) !important;
+    }
+  }
+}
+
+.pronounce {
+  font-size: 1rem;
+  margin-top: -0.4rem;
+}
+
+/* ---------- Paper lists (Research page, home page projects) ---------- */
+
+.papers p {
+  margin-bottom: 1.3rem;
+}
+
+.papers p > strong:first-child,
+.papers p > strong:first-child a {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  text-decoration-thickness: 1px;
+}
+
+.papers p > strong:first-child a {
+  color: var(--global-text-color);
+
+  &:hover {
+    color: var(--global-theme-color);
+  }
+}
+
+.projects-list li {
+  margin-bottom: 0.6rem;
+}
