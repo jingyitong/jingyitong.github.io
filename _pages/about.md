@@ -9,21 +9,21 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
-  # Everything below the photo: address, CV buttons, then contact icons.
+  # Everything below the photo: address, email, CV buttons, then Scholar/LinkedIn links.
   more_info: >
     <p>438 Warren Hall</p>
     <p>137 Reservoir Ave, Ithaca, NY 14850</p>
+    <p><a href="mailto:jt985@cornell.edu">jt985@cornell.edu</a></p>
     <div class="profile-buttons">
       <a class="profile-btn" href="/assets/pdf/CV_Jingyi_Tong.pdf">CV (English)</a>
       <a class="profile-btn" href="/assets/pdf/CV_Jingyi_Tong_Chinese.pdf">中文简历</a>
     </div>
     <div class="profile-links">
-      <a href="https://scholar.google.com/citations?user=KXiJ-rUAAAAJ&hl=en" title="Google Scholar" aria-label="Google Scholar"><i class="ai ai-google-scholar"></i></a>
-      <a href="https://www.linkedin.com/in/jingyi-tong-12b50b308/" title="LinkedIn" aria-label="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
+      <a href="https://scholar.google.com/citations?user=KXiJ-rUAAAAJ&hl=en"><i class="ai ai-google-scholar"></i><span>Google Scholar</span></a>
+      <a href="https://www.linkedin.com/in/jingyi-tong-12b50b308/"><i class="fa-brands fa-linkedin"></i><span>LinkedIn</span></a>
       <!-- ORCID: replace XXXX with your ORCID iD, then delete this comment and the two comment markers around the link
-      <a href="https://orcid.org/XXXX-XXXX-XXXX-XXXX" title="ORCID" aria-label="ORCID"><i class="ai ai-orcid"></i></a>
+      <a href="https://orcid.org/XXXX-XXXX-XXXX-XXXX"><i class="ai ai-orcid"></i><span>ORCID</span></a>
       -->
-      <a href="mailto:jt985@cornell.edu" title="Email" aria-label="Email"><i class="fa-solid fa-envelope"></i></a>
     </div>
 
 selected_papers: false
@@ -38,11 +38,13 @@ latest_posts:
   enabled: false
 ---
 
-I am a Postdoctoral Research Associate at the Charles H. Dyson School of Applied Economics and Management at Cornell University. I received my Ph.D. in Agricultural Economics from Iowa State University in 2025.
+I am a Postdoctoral Research Associate at the Charles H. Dyson School of Applied Economics and Management at Cornell University. I received my Ph.D. in Agricultural Economics from the [Department of Economics at Iowa State University](https://www.econ.iastate.edu/) in 2025.
 
 My research is in agricultural and environmental economics and experimental economics. I study how farmers, landowners, and consumers make decisions about conservation, land use, and new agricultural and energy technologies, and how policy and information shape those decisions. My work combines field and survey experiments, discrete choice experiments, and satellite-based land use data.
 
 **Research interests:** conservation practice adoption, farmland tenure and ownership, cropland use and agricultural pollution, technology adoption, consumer willingness to pay, experiment design, and women in agriculture.
+
+<div class="section-gap"></div>
 
 ## Recent Projects I am Working on
 
