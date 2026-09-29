@@ -73,16 +73,16 @@ with Wendong Zhang and Katie Dentzman
 
 ## Other Publications
 
-**Kentucky Consumer Perceptions and Key Attributes in the Willingness-to-Pay Study for Cucumbers [link](https://dx.doi.org/10.2139/ssrn.5767702)**<br>
+**Kentucky Consumer Perceptions and Key Attributes in the Willingness-to-Pay Study for Cucumbers** [link](https://dx.doi.org/10.2139/ssrn.5767702)<br>
 Wehner, J., Tong, J., Zhang, W., Li, T., Pulliam, K., Gonthier, D., Sciligo, A., & Miller, E. (2025). _Cornell SC Johnson College of Business Research Paper_.
 
-**Iowa Farmland Ownership and Tenure Survey 1982–2022: A 40-Year Perspective [link](https://shop.iastate.edu/extension/community-development/community-and-leadership/farm-business-management/fm1893.html)**<br>
+**Iowa Farmland Ownership and Tenure Survey 1982–2022: A 40-Year Perspective** [link](https://shop.iastate.edu/extension/community-development/community-and-leadership/farm-business-management/fm1893.html)<br>
 Tong, J., & Zhang, W. (2023). _Iowa State University Extension and Outreach_, FM 1893. [Ungated](https://dr.lib.iastate.edu/handle/20.500.12876/EzR2A2Gz)
 
-**The Continuing Evolution of Iowa Farmland Ownership and Tenure: Results from the 2022 Survey [link](https://agpolicyreview.card.iastate.edu/spring-2023/continuing-evolution-iowa-farmland-ownership-and-tenure-results-2022-survey)**<br>
+**The Continuing Evolution of Iowa Farmland Ownership and Tenure: Results from the 2022 Survey** [link](https://agpolicyreview.card.iastate.edu/spring-2023/continuing-evolution-iowa-farmland-ownership-and-tenure-results-2022-survey)<br>
 Hart, C., Tong, J., & Zhang, W. (2023). _Agricultural Policy Review_, Center for Agricultural and Rural Development, Iowa State University.
 
-**Educational Preferences on Farmland Leasing, Conservation Practices, and Transition Plans: Voices of Iowa Women Farmland Owners [link](https://www.card.iastate.edu/publications/22-wp-633)**<br>
+**Educational Preferences on Farmland Leasing, Conservation Practices, and Transition Plans: Voices of Iowa Women Farmland Owners** [link](https://www.card.iastate.edu/publications/22-wp-633)<br>
 Tong, J., & Zhang, W. (2022). _Center for Agricultural and Rural Development_, Iowa State University.
 
 **Establishing the Educational Evaluation System of Academic Advising for Sino-Foreign College** [link](https://library.apsce.net/index.php/ICCE/article/view/3600)<br>
