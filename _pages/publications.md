@@ -77,7 +77,7 @@ with Wendong Zhang and Katie Dentzman
 Wehner, J., Tong, J., Zhang, W., Li, T., Pulliam, K., Gonthier, D., Sciligo, A., & Miller, E. (2025). _Cornell SC Johnson College of Business Research Paper_.
 
 **Iowa Farmland Ownership and Tenure Survey 1982–2022: A 40-Year Perspective [link](https://shop.iastate.edu/extension/community-development/community-and-leadership/farm-business-management/fm1893.html)**<br>
-Tong, J., & Zhang, W. (2023). _Iowa State University Extension and Outreach_, FM 1893.
+Tong, J., & Zhang, W. (2023). _Iowa State University Extension and Outreach_, FM 1893. [Ungated](https://dr.lib.iastate.edu/handle/20.500.12876/EzR2A2Gz)
 
 **The Continuing Evolution of Iowa Farmland Ownership and Tenure: Results from the 2022 Survey [link](https://agpolicyreview.card.iastate.edu/spring-2023/continuing-evolution-iowa-farmland-ownership-and-tenure-results-2022-survey)**<br>
 Hart, C., Tong, J., & Zhang, W. (2023). _Agricultural Policy Review_, Center for Agricultural and Rural Development, Iowa State University.
