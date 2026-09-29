@@ -15,6 +15,9 @@ nav_order: 2
   Use short file names without spaces.
 -->
 
+<div class="compact-page" markdown="1">
+
+
 ### Women Landowners' Voices in Iowa
 
 Women own nearly half of all farmland acres in Iowa and are an essential group in agriculture and natural resources. This project develops tailored educational materials to improve the knowledge and confidence of women landowners on farmland leasing, soil and water conservation practices, and farmland transition planning.
@@ -40,3 +43,5 @@ This study assesses the adoption potential of mesotunnels, medium-sized breathab
 
 - **Publications:** [Wehner et al. (2025), _Cornell SC Johnson College of Business Research Paper_](https://dx.doi.org/10.2139/ssrn.5767702)
 - **Presentation:** AFHVS/ASFS Conference (June 2024)
+
+</div>

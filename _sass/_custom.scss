@@ -352,3 +352,31 @@ hr {
     font-weight: 600;
   }
 }
+
+/* ---------- Smaller body text on Research and Extension pages ---------- */
+/* Section headings (h2/h3) keep their size; paper titles stay slightly larger than body text */
+.papers > p,
+.papers > ul li,
+.compact-page p,
+.compact-page li {
+  font-size: 1rem;
+}
+
+.papers > p > strong:first-child {
+  font-size: 1.07rem;
+}
+
+.paper-extra details > p {
+  font-size: 0.95rem;
+}
+
+/* Outline links: same size as the top menu (about, Research, Extension...) */
+#toc-sidebar .toc-link {
+  font-size: 1.05rem !important;
+  font-weight: 500;
+  line-height: 1.4;
+}
+
+#toc-sidebar .toc-link.is-active-link {
+  font-weight: 600;
+}
