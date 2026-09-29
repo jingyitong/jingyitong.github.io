@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: >
-  Postdoctoral Research Associate, <a href="https://dyson.cornell.edu/">Charles H. Dyson School of Applied Economics and Management</a>, Cornell University
+subtitle:
 
 profile:
   align: right
@@ -22,9 +21,7 @@ profile:
     <div class="profile-links">
       <a href="https://scholar.google.com/citations?user=KXiJ-rUAAAAJ&hl=en"><i class="ai ai-google-scholar"></i><span>Google Scholar</span></a>
       <a href="https://www.linkedin.com/in/jingyi-tong-12b50b308/"><i class="fa-brands fa-linkedin"></i><span>LinkedIn</span></a>
-      <!-- ORCID: replace XXXX with your ORCID iD, then delete this comment and the two comment markers around the link
-      <a href="https://orcid.org/XXXX-XXXX-XXXX-XXXX"><i class="ai ai-orcid"></i><span>ORCID</span></a>
-      -->
+      <a href="https://orcid.org/0009-0008-8618-2277"><i class="ai ai-orcid"></i><span>ORCID</span></a>
     </div>
 
 selected_papers: false
@@ -39,11 +36,11 @@ latest_posts:
   enabled: false
 ---
 
-I am a Postdoctoral Research Associate at the Charles H. Dyson School of Applied Economics and Management at Cornell University. I received my Ph.D. in Agricultural Economics from the [Department of Economics at Iowa State University](https://www.econ.iastate.edu/) in 2025.
+I am a Postdoctoral Research Associate at the <a href="https://dyson.cornell.edu/">Charles H. Dyson School of Applied Economics and Management</a> at Cornell University. I received my Ph.D. in Agricultural Economics from the [Department of Economics at Iowa State University](https://www.econ.iastate.edu/) in 2025.
 
 My research is in agricultural and environmental economics and experimental economics. I study how farmers, landowners, and consumers make decisions about conservation, land use, and new agricultural and energy technologies, and how policy and information shape those decisions. My work combines field and survey experiments, discrete choice experiments, and satellite-based land use data.
 
-**Research interests:** conservation practice adoption, farmland tenure and ownership, cropland use and agricultural pollution, technology adoption, consumer willingness to pay, experiment design, and women in agriculture.
+**Research interests:** conservation practice adoption, farmland tenure and ownership, cropland use and agricultural pollution, technology adoption, consumer willingness to pay, experimental design, and women in agriculture.
 
 <div class="section-gap"></div>
 
