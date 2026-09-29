@@ -32,7 +32,7 @@ toc:
 
 **Institutional Land Ownership and Conservation Practice Adoption in the U.S. Midwest**<br>
 with Otavio Bartalotti and Wendong Zhang<br>
-_Revise and Resubmit, Journal of Environmental Economics and Management_  [Ungated](https://dx.doi.org/10.2139/ssrn.6409709)
+_Revise and Resubmit, Journal of Environmental Economics and Management_  [Ungated link](https://dx.doi.org/10.2139/ssrn.6409709)
 
 <div class="paper-extra"><details><summary>Abstract</summary>
 <p class="abstract">We study how a firm's institutional ownership structure influences its adoption of environmentally beneficial innovations. This question is salient in the U.S. agricultural sector, where corporate structures like LLCs and trusts are becoming more prevalent. Nationally, institutional farmland ownership is growing and attracting new producers, yet its net impact on conservation remains ambiguous. Using representative panel data of landowners from Iowa—a state with surging institutional ownership from 9% to 38% between 1982 and 2022 —we analyze the adoption of no-till and cover crops, practices crucial for soil health and climate resilience. Employing a bivariate Tobit model with an instrumental variable of long-term capital gains tax liability to address endogeneity, results indicate institutional ownership significantly boosts conservation. It increases the likelihood and acreage of no-till adoption by 31.7% and 31.8%, and cover crops by 41.7% and 28.8%, respectively. Key drivers include professional management, access to information, and structured farm transitions.</p>
@@ -109,7 +109,7 @@ _Forthcoming, Agricultural Economics_
 </details></div>
 
 **Factors Influencing the Adoption of Flexible Lease Arrangements in Iowa** [link](https://www.asfmra.org/resources/asfmra-journal/2026journal)<br>
-Tong, J., Bootsma, M., Zhang, W., & Zhang, W. (2026). _Journal of the ASFMRA_ · [Ungated](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6350760)
+Tong, J., Bootsma, M., Zhang, W., & Zhang, W. (2026). _Journal of the ASFMRA_ · [Ungated link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6350760)
 
 <div class="paper-extra"><details><summary>Abstract</summary>
 <p class="abstract">The number of cash lease agreements in Iowa has steadily increased over the past few decades, with fixed cash leases being the dominant form. However, flexible leases, particularly those tied to both crop price and yield, saw increased adoption post- 2002 and have maintained a steady market share since 2012. Using the Iowa Farmland Ownership and Tenure Survey (2002-2022), this study explores factors correlating with the adoption of flexible lease arrangement. Findings indicate that flexible leases are more prevalent in long-term, trust- based arrangements. Key factors include landowner age, farm visit frequency, and soil productivity, with variations observed based on landowners’ operating status, ownership structure, and geographic location.</p>
@@ -154,7 +154,7 @@ Wehner, J., Tong, J., Zhang, W., Li, T., Pulliam, K., Gonthier, D., Sciligo, A.,
 </details></div>
 
 **Iowa Farmland Ownership and Tenure Survey 1982–2022: A 40-Year Perspective** [link](https://shop.iastate.edu/extension/community-development/community-and-leadership/farm-business-management/fm1893.html)<br>
-Tong, J., & Zhang, W. (2023). _Iowa State University Extension and Outreach_, FM 1893. [Ungated](https://dr.lib.iastate.edu/handle/20.500.12876/EzR2A2Gz)
+Tong, J., & Zhang, W. (2023). _Iowa State University Extension and Outreach_, FM 1893. [Ungated link](https://dr.lib.iastate.edu/handle/20.500.12876/EzR2A2Gz)
 
 <div class="paper-extra"><details><summary>Abstract</summary>
 <p class="abstract">Farmland often is a farmer’s single largest investment item, a major source of collateral, and a key component of the farmer’s debt portfolio. At the macroeconomic level, the value of land and buildings represents over 80% of all U.S. farm assets. As a result, changes in the farmland market and the implications for farmland owners, tenants, and beginning farmers are of perennial interest to policymakers, landowners, producers, and researchers. Using a statistically representative sample of Iowa landowners in July 2022, this study provides a critical update to the Iowa Farmland Ownership and Tenure Survey series and a 40-year perspective (1982 to present) on many aspects of land ownership, tenure, acquisition, succession, and characteristics of landowners, including non-operator landowners, farmland rental agreements, and the financing of farmland. The 2022 survey also added questions on the use of working land and edge-of-field conservation practices on Iowa farmland, the developments with trusts, and potential transfers to beginning farmers. This survey carries out an Iowa legislative mandate, and represents a nationally unique study that has been conducted every five years since the 1980s to better understand agricultural land ownership, tenure, and transfer.</p>
