@@ -171,14 +171,14 @@ html[data-theme="dark"] .navbar-brand.home-logo img {
   margin-bottom: 1.3rem;
 }
 
-.papers p > strong:first-child,
-.papers p > strong:first-child a {
+.papers > p > strong:first-child,
+.papers > p > strong:first-child a {
   text-decoration: underline;
   text-underline-offset: 3px;
   text-decoration-thickness: 1px;
 }
 
-.papers p > strong:first-child a {
+.papers > p > strong:first-child a {
   color: var(--global-text-color);
 
   &:hover {
@@ -201,4 +201,54 @@ html[data-theme="dark"] .navbar-brand.home-logo img {
 
 html[data-theme="dark"] .name-extra {
   color: #bbb;
+}
+
+/* Abstract toggle and presentations under each paper (Research page) */
+.paper-extra {
+  margin: -0.9rem 0 1.6rem;
+  font-size: 1rem;
+
+  p {
+    margin-bottom: 0.3rem;
+  }
+
+  details summary {
+    display: inline-block;
+    cursor: pointer;
+    font-weight: 600;
+    color: var(--global-theme-color);
+    margin-bottom: 0.3rem;
+  }
+
+  details summary::marker,
+  details summary::-webkit-details-marker {
+    display: none;
+  }
+
+  details summary::before {
+    content: "▸ ";
+  }
+
+  details[open] summary::before {
+    content: "▾ ";
+  }
+
+  details p {
+    padding: 0.6rem 0.9rem;
+    border-left: 3px solid var(--global-divider-color);
+    background: rgba(0, 0, 0, 0.03);
+    font-size: 0.98rem;
+    line-height: 1.6;
+  }
+}
+
+html[data-theme="dark"] .paper-extra details p {
+  background: rgba(255, 255, 255, 0.05);
+}
+
+/* Grey divider lines (Extension and Teaching pages) */
+hr {
+  border: 0;
+  border-top: 1px solid #cfcfcf;
+  margin: 1.8rem 0;
 }

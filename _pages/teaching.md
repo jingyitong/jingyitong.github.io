@@ -11,6 +11,8 @@ nav_order: 3
 
 - **Principles of Microeconomics**, Iowa State University (2024)
 
+---
+
 ## Teaching Assistant
 
 - **Rural Property Appraisal**, for Dr. Rabail Chandio (2025)
