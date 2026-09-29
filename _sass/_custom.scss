@@ -247,14 +247,14 @@ html[data-theme="dark"] .name-extra {
 
   /* Hide whatever is still empty; hide the whole button if nothing is filled in */
   .abstract:empty,
-  .presentations:empty,
-  details:not(:has(p:not(:empty))) {
+  .presentations:has(span:empty),
+  details:not(:has(.abstract:not(:empty), .presentations span:not(:empty))) {
     display: none;
   }
 
-  .presentations::before {
-    content: "Presentations: ";
-    font-weight: 700;
+  /* Separate the presentations from the abstract */
+  .abstract + .presentations {
+    margin-top: 0.4rem;
   }
 }
 
