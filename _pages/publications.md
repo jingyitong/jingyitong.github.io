@@ -30,10 +30,10 @@ nav_order: 1
 
 **Institutional Land Ownership and Conservation Practice Adoption in the U.S. Midwest**<br>
 with Otavio Bartalotti and Wendong Zhang<br>
-_Revise and Resubmit, Journal of Environmental Economics and Management_ [Ungated](https://dx.doi.org/10.2139/ssrn.6409709)
+_Revise and Resubmit, Journal of Environmental Economics and Management_  [Ungated](https://dx.doi.org/10.2139/ssrn.6409709)
 
 <div class="paper-extra"><details><summary>Abstract</summary>
-<p class="abstract"></p>
+<p class="abstract"></p>We study how a firm's institutional ownership structure influences its adoption of environmentally beneficial innovations. This question is salient in the U.S. agricultural sector, where corporate structures like LLCs and trusts are becoming more prevalent. Nationally, institutional farmland ownership is growing and attracting new producers, yet its net impact on conservation remains ambiguous. Using representative panel data of landowners from Iowa—a state with surging institutional ownership from 9% to 38% between 1982 and 2022 —we analyze the adoption of no-till and cover crops, practices crucial for soil health and climate resilience. Employing a bivariate Tobit model with an instrumental variable of long-term capital gains tax liability to address endogeneity, results indicate institutional ownership significantly boosts conservation. It increases the likelihood and acreage of no-till adoption by 31.7% and 31.8%, and cover crops by 41.7% and 28.8%, respectively. Key drivers include professional management, access to information, and structured farm transitions.
 <p class="presentations">World Bank Land Conference (2025); AAEA Annual Meeting (2024); NAREA Annual Meeting (2024)</p>
 </details></div>
 
@@ -42,8 +42,8 @@ with David Hennessy, Shuchao Ye, and Chaoqun Lu<br>
 _Under review, American Journal of Agricultural Economics_
 
 <div class="paper-extra"><details><summary>Abstract</summary>
-<p class="abstract"></p>
-<p class="presentations">Chinese Economists Society North America Annual Conference (2026); AAEA Annual Meeting (2024), earlier version titled <em>Dynamic Land Use Impact of Crop Insurance Subsidies in the U.S. Corn Belt: A Grid-Level Analysis</em></p>
+<p class="abstract"></p>Agricultural soil management generates roughly 75 percent of U.S. nitrous oxide (N₂O) emissions, largely from nitrogen fertilizer use in corn systems. We develop an integrated framework combining dynamic land use modeling with biophysical simulation to evaluate three mitigation strategies: carbon pricing through crop price adjustments, nitrogen taxation via fertilizer prices, and crop insurance subsidies removal. Using satellite data for the Inner Corn Belt (2008-2024) and a Zero One Inflated Beta model with two years of crop history, we estimate how economic incentives influence rotation decisions. We address endogeneity with instrumental variables and couple econometric estimates with the Dynamic Land Ecosystem Model to simulate emissions, monetizing impacts using the social cost of N2O emissions. Results show that responses occur mainly within crop rotations rather than through cropland change. Using fixed-point iterations, we find that long-run effects exceed short-run effects, conditional on the crop history length considered and persistence of the price shock. Upon constructing a novel crop risk proxy using marginal risk premiums, we find that crop planting falls in regions with higher corn production risk and rises in regions with higher soybean production risk. Policy simulations show that a $1/bushel corn tax, a 50% tax on nitrogen fertilizer price, and removal of crop insurance subsidies reduce N2O emissions by 4.60%, 4.11%, and 0.81%, yielding annual social benefits of $748, $666, and $131 million, respectively. Extensive-margin estimates based on reciprocity conditions indicate that a $1 increase in the corn price raises nitrogen application by 32%, while an equivalent soybean price increase reduces it by 8%. 
+<p class="presentations">Chinese Economists Society North America Annual Conference (2026); AAEA Annual Meeting (2024); AAEA Annual Meeting (2023) </p>
 </details></div>
 
 **County-Level PFAS Contamination Site Density and Associations with Chronic Disease and Cancer in the United States**<br>
@@ -51,23 +51,32 @@ with William Chen, Wei Zhang, and Wendong Zhang<br>
 _Under review, BMJ Public Health_
 
 <div class="paper-extra"><details><summary>Abstract</summary>
-<p class="abstract"></p>
+<p class="abstract"></p>Background:
+Per- and polyfluoroalkyl substances (PFAS) are persistent environmental contaminants widely detected in U.S. drinking water systems, industrial facilities, and military installations. Although individual-level biomonitoring studies have linked PFAS exposure to multiple adverse health outcomes, less is known about how the spatial distribution of PFAS contamination sources relates to population health at broader geographic scales.
+Objective:
+We evaluated associations between county-level PFAS contamination site density and the prevalence and incidence of chronic diseases and cancers across the United States.
+Methods:
+We conducted a national county-level analysis using a comprehensive dataset of confirmed and suspected PFAS contamination sites, including industrial facilities, wastewater treatment plants, and military sites. PFAS contamination site density was aggregated at the county level and used as a proxy for long-term environmental exposure potential. Health outcomes included age-adjusted prevalence of selected chronic conditions and incidence rates of multiple cancers obtained from national surveillance systems. Population-weighted regression models with state fixed effects were estimated, adjusting for sociodemographic characteristics, health behaviors, healthcare access, and ambient fine particulate matter (PM₂.₅). We further assessed heterogeneity by contamination source type and metropolitan versus non-metropolitan status.
+Results:
+Higher PFAS contamination site density was associated with increased prevalence of chronic kidney disease and higher incidence of several cancers, including breast (invasive and in situ), lung, liver, pancreatic, and hematologic malignancies. Associations varied by contamination source, with industrial and military sites linked to a broader range of outcomes than wastewater treatment plants. We also observed substantial geographic heterogeneity, with stronger associations for selected outcomes in non-metropolitan counties.
+Conclusion:
+County-level PFAS contamination site density is associated with elevated burdens of multiple chronic diseases and cancers in the United States. These findings highlight the value of spatially resolved, structural exposure metrics for characterizing population-level PFAS exposure and informing environmental health surveillance and prioritization efforts.
 <p class="presentations"></p>
 </details></div>
 
-**Plastic Waste or Fewer Pesticides? Experimental Evidence on Consumer Preference Tradeoffs in Sustainable Vegetable Production**<br>
+**Asymmetric Consumer Responses to Competing Sustainability Attributes of Innovation**<br>
 with Jasmin Wehner, Tongzhe Li, and Wendong Zhang
 
 <div class="paper-extra"><details><summary>Abstract</summary>
-<p class="abstract"></p>
-<p class="presentations">Chinese Economists Society China Annual Conference (2026), presented as <em>Less Plastic Waste or Fewer Pesticides? Experimental Evidence on Consumer Responses to Competing Sustainability Attributes</em></p>
+<p class="abstract"></p>Innovations can improve one environmental attribute while worsening another. We examine whether consumers respond symmetrically to positive and negative information about such trade-offs. In a preregistered lab-in-the-field experiment with 913 adult consumers, a randomized posted-price mechanism elicits willingness to pay (WTP) for cucumbers grown with and without protective netting, an innovation that reduces pesticide use but increases plastic inputs. Via between-subject randomization, participants receive information about reduced pesticide use, increased plastic use, both attributes, or neither. Absent attribute-specific information, consumers are willing to pay a 37 percent premium ($0.81) for the innovation. Relative to the control group, information about increased plastic use reduces WTP for the product grown with the innovation by 46 percent ($1.42), whereas information about reduced pesticide use does not yield a significant effect, but is associated with lower WTP for the product without the innovation. A direct test rejects symmetry between the two effects for the product carrying the innovation. Presenting both attributes simultaneously reduces WTP for the product grown with the innovation by 19 percent ($0.58). The findings show that competing sustainability disclosures generate asymmetric valuation responses and that the composition of disclosed information can materially shape consumer valuation of innovations with mixed environmental effects.
+<p class="presentations">Chinese Economists Society China Annual Conference (2026)</em></p>
 </details></div>
 
 **Rootworm Corn Seed Disadoption: Land Use and Regional Welfare Consequences in the Inner Corn Belt**<br>
 with David Hennessy
 
 <div class="paper-extra"><details><summary>Abstract</summary>
-<p class="abstract"></p>
+<p class="abstract"></p>Genetically engineered (GE) corn with rootworm-targeting Bacillus thuringiensis (Bt) traits initially boosted yields in the U.S. Corn Belt. However, emerging rootworm resistance may have reduced effectiveness, potentially contributing to regional disadoption. This study evaluates the regional yield and economic impacts of Bt corn disadoption in the U.S. Inner Corn Belt during the declining adoption period. Using TraitTrak county-level data from 1981 to 2022, we estimate region-specific yield effects of Bt corn adoption through panel regressions with internal instruments to address endogeneity. Results show larger yield benefits in the West than in the East, with diminished gains during the post-disadoption period (2014-2022). We simulate two Bt corn removal scenarios for 2014–2021: one under current resistance levels and another assuming full trait effectiveness. Incorporating estimated yield shocks into a land use model, we assess planting responses, price changes, and welfare outcomes. Under current resistance, Bt corn removal leads to a 13.9% yield loss, a 14.3% price increase, and a $405 million corn revenue decline in the Inner Corn Belt. Total revenue effects depend on yield shocks, price responses, and land use adjustments. When price increases outweigh yield losses, revenue rises and planting expands; otherwise, corn area contracts. Given uniform price changes, regional differences in outcomes primarily reflect variation in yield impacts. Higher prices caused by supply shocks shift the burden to consumers, leading to overall welfare losses. The comparison of the scenarios suggests that preserving trait efficacy through effective resistance management could retain greater yield advantages and reduce social welfare loss.
 <p class="presentations"></p>
 </details></div>
 
@@ -75,7 +84,7 @@ with David Hennessy
 with Jacqueline Comito, Wendong Zhang, and Xiaolan Wan
 
 <div class="paper-extra"><details><summary>Abstract</summary>
-<p class="abstract"></p>
+<p class="abstract"></p>Edge-of-field conservation practices can reduce nutrient losses from agricultural landscapes, but adoption remains limited, especially for structural practices that require land-use change and program participation. This paper examines whether the gender of farmer messengers affects Iowa farmers’ willingness to adopt water quality enhancement wetlands (WQEW). We use a 2024 online survey experiment in which farmers and landowners were randomly assigned to receive no supplemental information or farmer-messenger treatments that varied messenger gender, delivery format, and wildlife-benefit content. Respondents then answered a dichotomous-choice contingent valuation question under randomized cost-share offers. Logit models with respondent-gender interactions show strongly gender-asymmetric messenger effects. Female farmers respond much more strongly to male farmer messengers than to female farmer messengers, and male messengers largely close the predicted adoption gap between female and male farmers. Male farmers, by contrast, are largely messenger-neutral. Message format also matters: a video treatment with wildlife benefits reduces the messenger-gender gap among female farmers. Willingness-to-accept estimates show that respondents are relatively insensitive to the offered cost-share range and often require compensation above full cost reimbursement. The information treatments have economically meaningful shadow values, especially for female farmers, by lowering implied compensation requirements for WQEW adoption.
 <p class="presentations">AAEA Annual Meeting (2026)</p>
 </details></div>
 
@@ -83,7 +92,7 @@ with Jacqueline Comito, Wendong Zhang, and Xiaolan Wan
 with Shuchao Ye and Chaoqun Lu
 
 <div class="paper-extra"><details><summary>Abstract</summary>
-<p class="abstract"></p>
+<p class="abstract"></p>Agricultural nitrous oxide (N₂O) emissions in the United States (US) continued to increase while the crop diversity declined since the 1980s, suggesting an important role of cropping-system change. Here we quantify the contribution of crop diversity to US agricultural N₂O emissions by constructing a counterfactual maximum-diversity (Maxi-D) scenario that maintains county-level crop diversity at its 1981 level during 1981–2019. Combining reconstructed crop maps, agricultural management datasets, and process-based ecosystem modelling, we show that maintaining high crop diversity could reduce the growth rate of agricultural N₂O emissions by nearly 50% relative to the historical trajectory. In addition, higher crop diversity slightly reduced the total crop production profit (4%), but the avoided N₂O-related societal costs offset approximately 41% of these losses. Our findings suggest that long-term agricultural specialization substantially amplified US N₂O emissions and that crop diversity could serve as a complementary climate-mitigation strategy alongside conventional N management.
 <p class="presentations"></p>
 </details></div>
 
@@ -91,7 +100,7 @@ with Shuchao Ye and Chaoqun Lu
 with Yu Wang and Wendong Zhang
 
 <div class="paper-extra"><details><summary>Abstract</summary>
-<p class="abstract"></p>
+<p class="abstract"></p>We estimate household willingness to pay (WTP) for mobile community microgrids (MCMs), transportable solar-plus-storage units that supply backup power during outages, using a national survey of 1,699 U.S. adults in which the monthly fee is randomly assigned under a dichotomous choice design. The estimated mean WTP is $52 per month, roughly half the modal household’s electricity bill. Popularity and valuation point to different sites. Nearly half of respondents prefer hospital and shelter siting but value it least, at $47 per month, while residential area supporters (16%) have the highest valuation of $61 and low-income-community (26%) supporters show a WTP of $57. WTP rises with the economic disadvantage of the respondent’s neighborhood, not with the local availability of infrastructure including hospitals, shelters, substations and residential houses. Households who view the program as a fiscal burden discount every siting except low-income communities. Supporters of low-income siting are the least price-sensitive group, while support motivated by distributive justice is nearly twice as price-sensitive as others’. Modest fees therefore retain the justice-motivated constituency behind equity-oriented deployment.
 <p class="presentations"></p>
 </details></div>
 
@@ -135,18 +144,8 @@ Schultz, M., Benning, J., DeLong, C., Hyde, C., O'Rourke, M., Scarbrough, L., Ti
 **Does the Conservation Reserve Program Improve Crop Yield and Resilience?**<br>
 with Shuaiqi Wu and Shuchao Ye
 
-<div class="paper-extra"><details><summary>Abstract</summary>
-<p class="abstract"></p>
-<p class="presentations"></p>
-</details></div>
-
 **Consumers' Willingness to Pay for Green Ethylene: A Discrete Choice Design**<br>
 with Yu Wang, Hermine Zhou, and Wendong Zhang
-
-<div class="paper-extra"><details><summary>Abstract</summary>
-<p class="abstract"></p>
-<p class="presentations"></p>
-</details></div>
 
 **What Drives Organic Cucurbit Growers to Adopt Mesotunnel Row Covers? An Application of the Technology Acceptance Model**<br>
 with Wendong Zhang and Katie Dentzman
