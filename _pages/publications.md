@@ -86,7 +86,7 @@ Hart, C., Tong, J., & Zhang, W. (2023). _Agricultural Policy Review_, Center for
 Tong, J., & Zhang, W. (2022). _Center for Agricultural and Rural Development_, Iowa State University.
 
 **Establishing the Educational Evaluation System of Academic Advising for Sino-Foreign College** [link](https://library.apsce.net/index.php/ICCE/article/view/3600)<br>
-Tong, J., Zhou, Y., & Luan, Z. (2016). _ICCE 2016: The 24th International Conference on Computers in Education _, Mumbai.
+Tong, J., Zhou, Y., & Luan, Z. (2016). _ICCE 2016: The 24th International Conference on Computers in Education_, Mumbai.
 
 ## Selected Presentations
 
