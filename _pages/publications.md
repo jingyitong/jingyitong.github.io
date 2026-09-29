@@ -18,9 +18,9 @@ nav_order: 1
 
 ## Working Papers
 
-**Institutional Land Ownership and Conservation Practice Adoption in the U.S. Midwest [Ungated](https://dx.doi.org/10.2139/ssrn.6409709)**<br>
+**Institutional Land Ownership and Conservation Practice Adoption in the U.S. Midwest**<br>
 with Otavio Bartalotti and Wendong Zhang<br>
-_Revise and Resubmit, Journal of Environmental Economics and Management_
+_Revise and Resubmit, Journal of Environmental Economics and Management_ [Ungated](https://dx.doi.org/10.2139/ssrn.6409709)
 
 **Grid-Level Dynamic Land Use Analysis of Farm Policy Changes in the U.S. Corn Belt with Application to Nitrous Oxide Emissions**<br>
 with David Hennessy, Shuchao Ye, and Chaoqun Lu<br>
@@ -51,13 +51,13 @@ with Yu Wang and Wendong Zhang
 with Xiaolan Wan, Jacqueline Comito, and Wendong Zhang<br>
 _Forthcoming, Agricultural Economics_
 
-**Factors Influencing the Adoption of Flexible Lease Arrangements in Iowa [link](https://www.asfmra.org/resources/asfmra-journal/2026journal)**<br>
+**Factors Influencing the Adoption of Flexible Lease Arrangements in Iowa** [link](https://www.asfmra.org/resources/asfmra-journal/2026journal)<br>
 Tong, J., Bootsma, M., Zhang, W., & Wang, W. (2026). _Journal of the ASFMRA_ · [Ungated](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6350760)
 
-**What Women Landowners Want to Know about Conservation [link](https://doi.org/10.1017/S1742170524000243)**<br>
+**What Women Landowners Want to Know about Conservation** [link](https://doi.org/10.1017/S1742170524000243)<br>
 Tong, J., Benning, J., DeLong, C., Schultz, M., & Zhang, W. (2024). _Renewable Agriculture and Food Systems_, 39, e35.
 
-**Survey Increases Understanding of Iowa Women Farmland Owners [link](https://www.nacaa.com/journal/af13e379-2e2a-4804-8239-0b491a88fa93)**<br>
+**Survey Increases Understanding of Iowa Women Farmland Owners** [link](https://www.nacaa.com/journal/af13e379-2e2a-4804-8239-0b491a88fa93)<br>
 Schultz, M., Benning, J., DeLong, C., Hyde, C., O'Rourke, M., Scarbrough, L., Tidgren, K., Tong, J., & Zhang, W. (2022). _Journal of the NACAA_, 15(2).
 
 ## Work in Progress
