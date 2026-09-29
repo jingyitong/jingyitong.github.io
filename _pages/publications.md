@@ -18,7 +18,7 @@ nav_order: 1
 
 ## Working Papers
 
-**Institutional Land Ownership and Conservation Practice Adoption in the U.S. Midwest [link](https://dx.doi.org/10.2139/ssrn.6409709)**<br>
+**Institutional Land Ownership and Conservation Practice Adoption in the U.S. Midwest [Ungated](https://dx.doi.org/10.2139/ssrn.6409709)**<br>
 with Otavio Bartalotti and Wendong Zhang<br>
 _Revise and Resubmit, Journal of Environmental Economics and Management_
 
@@ -51,7 +51,7 @@ with Yu Wang and Wendong Zhang
 with Xiaolan Wan, Jacqueline Comito, and Wendong Zhang<br>
 _Forthcoming, Agricultural Economics_
 
-**Factors Influencing the Adoption of Flexible Lease Arrangements in Iowa [link](https://papers.ssrn.com/abstract=6350760)**<br>
+**Factors Influencing the Adoption of Flexible Lease Arrangements in Iowa [link](https://www.asfmra.org/resources/asfmra-journal/2026journal)**<br>
 Tong, J., Bootsma, M., Zhang, W., & Wang, W. (2026). _Journal of the ASFMRA_ · [Ungated](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6350760)
 
 **What Women Landowners Want to Know about Conservation [link](https://doi.org/10.1017/S1742170524000243)**<br>
