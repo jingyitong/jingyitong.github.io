@@ -5,6 +5,8 @@ title: Research
 description:
 nav: true
 nav_order: 1
+toc:
+  sidebar: right # clickable outline of the section headings
 ---
 
 <!--

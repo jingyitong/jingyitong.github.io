@@ -268,3 +268,28 @@ hr {
   border-top: 1px solid #cfcfcf;
   margin: 1.8rem 0;
 }
+
+/* More space between the sections of the Research page */
+.papers h2 {
+  margin-top: 3.2rem;
+}
+
+.papers h2:first-child,
+.papers > h2:first-of-type {
+  margin-top: 0.5rem;
+}
+
+/* Outline (table of contents) on the right of the Research page */
+#toc-sidebar {
+  top: 5rem;
+  font-size: 0.95rem;
+
+  .toc-link {
+    color: var(--global-text-color);
+  }
+
+  .is-active-link {
+    color: var(--global-theme-color);
+    font-weight: 600;
+  }
+}
