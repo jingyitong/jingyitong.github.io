@@ -280,12 +280,59 @@ hr {
 }
 
 /* Outline (table of contents) on the right of the Research page */
+[role="main"] > .row {
+  display: flex;
+  flex-direction: column;
+
+  > .col-sm-3 {
+    order: -1; /* on phones: outline above the content */
+    margin-bottom: 1rem;
+  }
+}
+
+@media (min-width: 768px) {
+  [role="main"] > .row {
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 2rem;
+
+    > .col-sm-9 {
+      flex: 1 1 auto;
+      min-width: 0;
+    }
+
+    > .col-sm-3 {
+      order: 0;
+      flex: 0 0 210px;
+      position: sticky;
+      top: 5rem;
+      margin-bottom: 0;
+    }
+  }
+}
+
 #toc-sidebar {
-  top: 5rem;
   font-size: 0.95rem;
+  border-left: 2px solid var(--global-divider-color);
+  padding-left: 0.9rem;
+
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  li {
+    margin: 0.35rem 0;
+  }
 
   .toc-link {
     color: var(--global-text-color);
+    text-decoration: none;
+
+    &:hover {
+      color: var(--global-theme-color);
+    }
   }
 
   .is-active-link {
