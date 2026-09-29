@@ -12,7 +12,8 @@ profile:
   # Everything below the photo: address, email, CV buttons, then Scholar/LinkedIn links.
   more_info: >
     <p>438 Warren Hall</p>
-    <p>137 Reservoir Ave, Ithaca, NY 14850</p>
+    <p>137 Reservoir Ave</p>
+    <p>Ithaca, NY 14850</p>
     <p><a href="mailto:jt985@cornell.edu">jt985@cornell.edu</a></p>
     <div class="profile-buttons">
       <a class="profile-btn" href="/assets/pdf/CV_Jingyi_Tong.pdf">CV (English)</a>
