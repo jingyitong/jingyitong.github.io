@@ -293,6 +293,9 @@ hr {
 @media (min-width: 768px) {
   .container.mt-5 > .row {
     flex-direction: row;
+    flex-wrap: nowrap;
+    margin-left: 0;
+    margin-right: 0;
     align-items: flex-start;
     gap: 2rem;
 
