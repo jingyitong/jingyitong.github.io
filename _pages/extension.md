@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /extension/
-title: extension
+title: Extension
 description: Extension and outreach
 nav: true
 nav_order: 2
@@ -26,4 +26,5 @@ Using a statistically representative sample of Iowa landowners in 2022, this pro
 
 This study assesses the adoption potential of mesotunnels, medium-sized breathable nylon-mesh structures, among organic cucurbit growers. Applying the Technology Acceptance Model 3 (TAM3) and ordered logit models to 337 survey responses, we find that a marginal increase in perceived efficacy or ease of use raises the likelihood of adoption by 1.55 and 2.34 times, respectively.
 
-- **Presentation:** AFHVS/ASFS Conference (June 2024)
+- **Publications:** 
+- - **Presentation:** AFHVS/ASFS Conference (June 2024)
