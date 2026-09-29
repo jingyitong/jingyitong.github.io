@@ -168,7 +168,12 @@ html[data-theme="dark"] .navbar-brand.home-logo img {
 /* ---------- Paper lists (Research page, home page projects) ---------- */
 
 .papers p {
-  margin-bottom: 1.3rem;
+  margin-bottom: 0.9rem;
+}
+
+/* Tighter lines in paper entries so more papers fit on screen */
+.papers > p {
+  line-height: 1.45;
 }
 
 .papers > p > strong:first-child,
@@ -205,16 +210,16 @@ html[data-theme="dark"] .name-extra {
 
 /* Abstract button under each paper (Research page): abstract + presentations inside */
 .paper-extra {
-  margin: -0.9rem 0 1.6rem;
+  margin: -0.6rem 0 1.1rem;
 
   details summary {
     display: inline-block;
     cursor: pointer;
     list-style: none;
-    padding: 0.1rem 0.7rem;
+    padding: 0 0.6rem;
     border: 1px solid var(--global-theme-color);
     border-radius: 4px;
-    font-size: 0.85rem;
+    font-size: 0.8rem;
     font-weight: 600;
     color: var(--global-theme-color);
 
@@ -271,7 +276,7 @@ hr {
 
 /* More space between the sections of the Research page */
 .papers h2 {
-  margin-top: 3.2rem;
+  margin-top: 2.6rem;
 }
 
 .papers h2:first-child,
@@ -308,9 +313,9 @@ hr {
 
     > .col-sm-3 {
       order: 0;
-      flex: 0 0 210px;
-      max-width: 210px;
-      width: 210px;
+      flex: 0 0 270px;
+      max-width: 270px;
+      width: 270px;
       position: sticky;
       top: 5rem;
       margin-bottom: 0;
@@ -319,7 +324,7 @@ hr {
 }
 
 #toc-sidebar {
-  font-size: 0.95rem;
+  font-size: 1.1rem;
   border-left: 2px solid var(--global-divider-color);
   padding-left: 0.9rem;
 
@@ -330,7 +335,7 @@ hr {
   }
 
   li {
-    margin: 0.35rem 0;
+    margin: 0.55rem 0;
   }
 
   .toc-link {
