@@ -23,5 +23,9 @@ module.exports = {
     // and page chrome (scroll-progress bar, ToC) bleeds through a zoomed image.
     "medium-zoom-overlay",
     "medium-zoom-image--opened",
+    // Research-page outline: tocbot adds these classes at runtime.
+    /^toc/,
+    /^is-active/,
+    /^node-name/,
   ],
 };

@@ -280,7 +280,7 @@ hr {
 }
 
 /* Outline (table of contents) on the right of the Research page */
-[role="main"] > .row {
+.container.mt-5 > .row {
   display: flex;
   flex-direction: column;
 
@@ -291,7 +291,7 @@ hr {
 }
 
 @media (min-width: 768px) {
-  [role="main"] > .row {
+  .container.mt-5 > .row {
     flex-direction: row;
     align-items: flex-start;
     gap: 2rem;
