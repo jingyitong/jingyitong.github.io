@@ -102,15 +102,15 @@ with Xiaolan Wan, Jacqueline Comito, and Wendong Zhang<br>
 _Forthcoming, Agricultural Economics_
 
 <div class="paper-extra"><details><summary>Abstract</summary>
-<p class="abstract"></p>
+<p class="abstract"></p>Edge-of-field (EOF) practices installed at field borders to filter agricultural runoff are critical for improving water quality. Despite their effectiveness, adoption by farmers remains critically low. This study explores the influence of messengers on farmers’ decisions to adopt EOF practices. We conducted an information treatment experiment using two information sources--an Extension professional and a farmer early adopter--versus a control group. Using an online survey of 373 Iowa farmer respondents in 2022, we built an empirical model to detect the treatment effect on farmer intention to adopt EOF practices. Our results reveal that farmers with less experience in conservation practices responded more positively to the treatments, and that a farmer messenger was more effective than an Extension professional in encouraging practice adoption. The farmer messenger increased adoption probability by 20.4 percentage points among respondents who are not currently enrolled in the Conservation Reserve Program, while the professional messenger yielded a statistically insignificant 7.7-percentage-point increase. Among respondents who decline adoption, both messengers reduced self-reported difficulty understanding how the practice works. These findings suggest that professional and peer messengers can each build technical understanding of EOF practices, while peer messengers are distinctively better at converting that understanding into stated intention to adopt. Outreach programs may therefore benefit from leveraging peer experiences and narratives, as farmer-to-farmer communication appears to resonate more effectively in these communities.
 <p class="presentations"></p>
 </details></div>
 
 **Factors Influencing the Adoption of Flexible Lease Arrangements in Iowa** [link](https://www.asfmra.org/resources/asfmra-journal/2026journal)<br>
-Tong, J., Bootsma, M., Zhang, W., & Wang, W. (2026). _Journal of the ASFMRA_ · [Ungated](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6350760)
+Tong, J., Bootsma, M., Zhang, W., & Zhang, W. (2026). _Journal of the ASFMRA_ · [Ungated](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6350760)
 
 <div class="paper-extra"><details><summary>Abstract</summary>
-<p class="abstract"></p>
+<p class="abstract"></p>The number of cash lease agreements in Iowa has steadily increased over the past few decades, with fixed cash leases being the dominant form. However, flexible leases, particularly those tied to both crop price and yield, saw increased adoption post- 2002 and have maintained a steady market share since 2012. Using the Iowa Farmland Ownership and Tenure Survey (2002-2022), this study explores factors correlating with the adoption of flexible lease arrangement. Findings indicate that flexible leases are more prevalent in long-term, trust- based arrangements. Key factors include landowner age, farm visit frequency, and soil productivity, with variations observed based on landowners’ operating status, ownership structure, and geographic location.
 <p class="presentations"></p>
 </details></div>
 
@@ -126,7 +126,7 @@ Tong, J., Benning, J., DeLong, C., Schultz, M., & Zhang, W. (2024). _Renewable A
 Schultz, M., Benning, J., DeLong, C., Hyde, C., O'Rourke, M., Scarbrough, L., Tidgren, K., Tong, J., & Zhang, W. (2022). _Journal of the NACAA_, 15(2).
 
 <div class="paper-extra"><details><summary>Abstract</summary>
-<p class="abstract"></p>
+<p class="abstract"></p>To increase understanding of Iowa’s women farmland owners, a literature review was conducted, followed by design of a survey instrument. The survey was mailed to 728 women and 358 women responded. Results show 92.0% of women farmland owners are in a decision-making role. Women can be effective change agents for more equitable farmland leasing, adoption of conservation practices, and greater efficiencies in land transition to next generation farmers. The research helps guide extension professionals in developing resources and programs that extend knowledge and empower women farmland owners. All citizens benefit when extension supports women owners in improving agricultural sustainability through the farmland management decisions they make.
 <p class="presentations"></p>
 </details></div>
 
@@ -151,18 +151,13 @@ with Yu Wang, Hermine Zhou, and Wendong Zhang
 **What Drives Organic Cucurbit Growers to Adopt Mesotunnel Row Covers? An Application of the Technology Acceptance Model**<br>
 with Wendong Zhang and Katie Dentzman
 
-<div class="paper-extra"><details><summary>Abstract</summary>
-<p class="abstract">This study assesses the adoption potential of mesotunnels, medium-sized breathable nylon-mesh structures, among organic cucurbit growers. Applying the Technology Acceptance Model 3 (TAM3) and ordered logit models to 337 survey responses, we find that a marginal increase in perceived efficacy or ease of use raises the likelihood of adoption by 1.55 and 2.34 times, respectively.</p>
-<p class="presentations">AFHVS/ASFS Joint Conference (2024)</p>
-</details></div>
-
 ## Other Publications
 
 **Kentucky Consumer Perceptions and Key Attributes in the Willingness-to-Pay Study for Cucumbers** [link](https://dx.doi.org/10.2139/ssrn.5767702)<br>
 Wehner, J., Tong, J., Zhang, W., Li, T., Pulliam, K., Gonthier, D., Sciligo, A., & Miller, E. (2025). _Cornell SC Johnson College of Business Research Paper_.
 
 <div class="paper-extra"><details><summary>Abstract</summary>
-<p class="abstract"></p>
+<p class="abstract"></p>In July 2025, we conducted a study with 935 participants on consumer willingness to pay for cucumbers in Lexington, Kentucky. We find that the more expensive a cucumber, the less consumers are willing to buy a cucumber. At USD 2 to 2.5 per slicing cucumber, buyers and non-buyers are nearly evenly split (53 percent vs. 47 percent). Price and minimal pesticide use are key attributes for consumers across age groups. Nearly half of consumers (45 percent) say price is a key factor, while 36 percent care a lot about fewer pesticides and 34 percent prioritize cucumbers with no pesticides at all. Most respondents are highly concerned about pesticides during production (36 percent) and residues on food (50 percent), while concern and knowledge about plastics, especially in production are much lower (14 percent). Highlighting the reduction in pesticide use from protective netting and clarifying that extra plastic is only used in production can help researchers and producers anticipate consumer preferences and tailor communication strategies accordingly.
 <p class="presentations"></p>
 </details></div>
 
@@ -170,31 +165,26 @@ Wehner, J., Tong, J., Zhang, W., Li, T., Pulliam, K., Gonthier, D., Sciligo, A.,
 Tong, J., & Zhang, W. (2023). _Iowa State University Extension and Outreach_, FM 1893. [Ungated](https://dr.lib.iastate.edu/handle/20.500.12876/EzR2A2Gz)
 
 <div class="paper-extra"><details><summary>Abstract</summary>
-<p class="abstract"></p>
-<p class="presentations"></p>
+<p class="abstract"></p>Farmland often is a farmer’s single largest investment item, a major source of collateral, and a key component of the farmer’s debt portfolio. At the macroeconomic level, the value of land and buildings represents over 80% of all U.S. farm assets. As a result, changes in the farmland market and the implications for farmland owners, tenants, and beginning farmers are of perennial interest to policymakers, landowners, producers, and researchers. Using a statistically representative sample of Iowa landowners in July 2022, this study provides a critical update to the Iowa Farmland Ownership and Tenure Survey series and a 40-year perspective (1982 to present) on many aspects of land ownership, tenure, acquisition, succession, and characteristics of landowners, including non-operator landowners, farmland rental agreements, and the financing of farmland. The 2022 survey also added questions on the use of working land and edge-of-field conservation practices on Iowa farmland, the developments with trusts, and potential transfers to beginning farmers. This survey carries out an Iowa legislative mandate, and represents a nationally unique study that has been conducted every five years since the 1980s to better understand agricultural land ownership, tenure, and transfer.
+<p class="presentations"></p> Iowa Nutrient Research Center (October 2023)
 </details></div>
 
 **The Continuing Evolution of Iowa Farmland Ownership and Tenure: Results from the 2022 Survey** [link](https://agpolicyreview.card.iastate.edu/spring-2023/continuing-evolution-iowa-farmland-ownership-and-tenure-results-2022-survey)<br>
 Hart, C., Tong, J., & Zhang, W. (2023). _Agricultural Policy Review_, Center for Agricultural and Rural Development, Iowa State University.
-
-<div class="paper-extra"><details><summary>Abstract</summary>
-<p class="abstract"></p>
-<p class="presentations"></p>
-</details></div>
 
 **Educational Preferences on Farmland Leasing, Conservation Practices, and Transition Plans: Voices of Iowa Women Farmland Owners** [link](https://www.card.iastate.edu/publications/22-wp-633)<br>
 Tong, J., & Zhang, W. (2022). _Center for Agricultural and Rural Development_, Iowa State University.
 
 <div class="paper-extra"><details><summary>Abstract</summary>
 <p class="abstract">The 2017 Iowa Farmland Ownership and Tenure survey finds that women own nearly half of all acres in Iowa, thus they are an essential group in agriculture and natural resources. However, the significance of this group is overlooked and many women landowners have limited farming experience. The purpose of this study is to improve the knowledge and confidence of women landowners on the use of more equitable farmland leases and access, the adoption of soil and water conservation practices, and the implementation of efficient plans to transition farmland to next-generation owners. Using a sample of 358 responses from women landowners of Iowa farmland, this study provides a timely and informational update on the interests and concerns of women landowners in farmland leasing, conservation practices, and farmland transition plans. The study also summarizes respondents' preferred ways to receive educational programming on these issues, which can be a critical reference for developing educational material for women landowners.</p>
-<p class="presentations"></p>
+<p class="presentations"></p>Extension Risk Management National Conference (April 2024); Women in Ag Leadership Conference (November 2022)
 </details></div>
 
 **Establishing the Educational Evaluation System of Academic Advising for Sino-Foreign College** [link](https://library.apsce.net/index.php/ICCE/article/view/3600)<br>
 Tong, J., Zhou, Y., & Luan, Z. (2016). _ICCE 2016: The 24th International Conference on Computers in Education_, Mumbai.
 
 <div class="paper-extra"><details><summary>Abstract</summary>
-<p class="abstract"></p>
+<p class="abstract"></p>The paper is to establish an evaluation index system on academic advising for sino-foreign college students in Chinese universities. Because there is almost no formal academic advising system for sino-foreign college students in China, the researchers made some investigations and looked for some authoritative articles to establish the indexes. Then through mathematical methods, the rationality of data was checked and the weights of the indexes were determined. Finally we got the equation to evaluate the final score and then got the comprehensive evaluation.
 <p class="presentations"></p>
 </details></div>
 
