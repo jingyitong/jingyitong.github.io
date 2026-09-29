@@ -300,13 +300,17 @@ hr {
     gap: 2rem;
 
     > .col-sm-9 {
-      flex: 1 1 auto;
+      flex: 1 1 0%;
       min-width: 0;
+      max-width: none;
+      width: auto;
     }
 
     > .col-sm-3 {
       order: 0;
       flex: 0 0 210px;
+      max-width: 210px;
+      width: 210px;
       position: sticky;
       top: 5rem;
       margin-bottom: 0;
