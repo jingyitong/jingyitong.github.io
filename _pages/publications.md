@@ -37,7 +37,7 @@ with Jasmin Wehner, Tongzhe Li, and Wendong Zhang
 with David Hennessy
 
 **Who Influences Whom? Gendered Peer Effects in Edge-of-Field Practice Adoption among Farmers**<br>
-with Jacqueline Comito and Wendong Zhang
+with Jacqueline Comito, Wendong Zhang, and Xiaolan Wan
 
 **Declining Crop Diversity Increases N<sub>2</sub>O Emission in the United States**<br>
 with Shuchao Ye and Chaoqun Lu
