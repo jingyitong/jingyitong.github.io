@@ -22,7 +22,7 @@ nav_order: 1
 with Otavio Bartalotti and Wendong Zhang<br>
 _Revise and Resubmit, Journal of Environmental Economics and Management_
 
-**Dynamic Land Use Impact of Farm Policy Changes in the U.S. Corn Belt: A Grid-Level Analysis**<br>
+**Grid-Level Dynamic Land Use Analysis of Farm Policy Changes in the U.S. Corn Belt with Application to Nitrous Oxide Emissions**<br>
 with David Hennessy, Shuchao Ye, and Chaoqun Lu<br>
 _Under review, American Journal of Agricultural Economics_
 
