@@ -12,7 +12,7 @@ Personal academic website of Jingyi Tong, built with the [al-folio](https://gith
 | Fonts, colors, buttons | `_sass/_custom.scss` |
 | Extension and outreach | `_pages/extension.md` |
 | Teaching | `_pages/teaching.md` |
-| CV files | `assets/pdf/CV_Jingyi_Tong.pdf`, `assets/pdf/CV_Jingyi_Tong_Chinese.pdf` |
+| CV files | `assets/pdf/CV_Jingyi_Tong.pdf`, `assets/pdf/中文简历-童敬宜.pdf` |
 | CV buttons and contact icons under the photo | `more_info` in `_pages/about.md` |
 | Site title, description, theme settings | `_config.yml` |
 
