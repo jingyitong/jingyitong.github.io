@@ -39,7 +39,7 @@ Using a statistically representative sample of Iowa landowners in 2022, this pro
 
 ### Mesotunnel Row Covers for Organic Cucurbit Growers
 
-This study assesses the adoption potential of mesotunnels, medium-sized breathable nylon-mesh structures, among organic cucurbit growers. Applying the Technology Acceptance Model 3 (TAM3) and ordered logit models to 337 survey responses, we find that a marginal increase in perceived efficacy or ease of use raises the likelihood of adoption by 1.55 and 2.34 times, respectively.
+This study assesses the adoption potential and consumers' perceptions of mesotunnels, medium-sized breathable nylon-mesh structures, among organic cucurbit growers. Applying the Technology Acceptance Model 3 (TAM3) and ordered logit models to 337 survey responses, we find that a marginal increase in perceived efficacy or ease of use raises the likelihood of adoption by 1.55 and 2.34 times, respectively. For consumers, people show the concerness of the both pesticide and plastic use of food production, and mesotunnels reduce the pesticides use and bring a relatively similar amount of plastic use compared to row covers already in use.  
 
 - **Publications:** [Wehner et al. (2025), _Cornell SC Johnson College of Business Research Paper_](https://dx.doi.org/10.2139/ssrn.5767702)
 - **Presentation:** AFHVS/ASFS Conference (June 2024)
