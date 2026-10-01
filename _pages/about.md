@@ -16,7 +16,7 @@ profile:
     <p><a href="mailto:jt985@cornell.edu">jt985@cornell.edu</a></p>
     <div class="profile-buttons">
       <a class="profile-btn" href="/assets/pdf/CV_Jingyi_Tong.pdf">CV (English)</a>
-      <a class="profile-btn" href="/assets/pdf/CV_Jingyi_Tong_Chinese.pdf">中文简历</a>
+      <a class="profile-btn" href="/assets/pdf/中文简历-童敬宜.pdf">中文简历</a>
     </div>
     <div class="profile-links">
       <a href="https://scholar.google.com/citations?user=KXiJ-rUAAAAJ&hl=en"><i class="ai ai-google-scholar"></i><span>Google Scholar</span></a>
