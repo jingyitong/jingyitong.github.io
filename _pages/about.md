@@ -36,7 +36,7 @@ latest_posts:
   enabled: false
 ---
 
-I am a Postdoctoral Research Associate at the <a href="https://dyson.cornell.edu/">Charles H. Dyson School of Applied Economics and Management</a> at Cornell University. I received my Ph.D. in Agricultural Economics from the [Department of Economics at Iowa State University](https://www.econ.iastate.edu/) in 2025.
+I am a Postdoctoral Research Associate at the <a href="https://dyson.cornell.edu/">Charles H. Dyson School of Applied Economics and Management</a> at Cornell University. I received my Ph.D. in Agricultural Economics from the [Department of Economics at Iowa State University](https://www.econ.iastate.edu/) in 2025. **I am on the 2026-27 job market.**
 
 My research is in agricultural and environmental economics and experimental economics. I study how farmers, landowners, and consumers make decisions about conservation, land use, and new agricultural and energy technologies, and how policy and information shape those decisions. My work combines field and survey experiments, discrete choice experiments, and satellite-based land use data.
 
