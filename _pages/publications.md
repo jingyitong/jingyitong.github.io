@@ -58,7 +58,7 @@ _Under review, BMJ Public Health_
 </details></div>
 
 **Asymmetric Consumer Responses to Competing Sustainability Attributes of Innovation**<br>
-with Jasmin Wehner, Tongzhe Li, and Wendong Zhang
+with Jasmin Wehner, Tongzhe Li, and Wendong Zhang<br>
 _With Editor_
 
 <div class="paper-extra"><details><summary>Abstract</summary>
@@ -75,7 +75,7 @@ with David Hennessy
 </details></div>
 
 **Who Influences Whom? Gendered Peer Effects in Edge-of-Field Practice Adoption among Farmers**<br>
-with Jacqueline Comito, Wendong Zhang, and Xiaolan Wan
+with Jacqueline Comito, Wendong Zhang, and Xiaolan Wan<br>
 
 <div class="paper-extra"><details><summary>Abstract</summary>
 <p class="abstract">Edge-of-field conservation practices can reduce nutrient losses from agricultural landscapes, but adoption remains limited, especially for structural practices that require land-use change and program participation. This paper examines whether the gender of farmer messengers affects Iowa farmers’ willingness to adopt water quality enhancement wetlands (WQEW). We use a 2024 online survey experiment in which farmers and landowners were randomly assigned to receive no supplemental information or farmer-messenger treatments that varied messenger gender, delivery format, and wildlife-benefit content. Respondents then answered a dichotomous-choice contingent valuation question under randomized cost-share offers. Logit models with respondent-gender interactions show strongly gender-asymmetric messenger effects. Female farmers respond much more strongly to male farmer messengers than to female farmer messengers, and male messengers largely close the predicted adoption gap between female and male farmers. Male farmers, by contrast, are largely messenger-neutral. Message format also matters: a video treatment with wildlife benefits reduces the messenger-gender gap among female farmers. Willingness-to-accept estimates show that respondents are relatively insensitive to the offered cost-share range and often require compensation above full cost reimbursement. The information treatments have economically meaningful shadow values, especially for female farmers, by lowering implied compensation requirements for WQEW adoption.</p>
@@ -83,7 +83,7 @@ with Jacqueline Comito, Wendong Zhang, and Xiaolan Wan
 </details></div>
 
 **Declining Crop Diversity Increases N<sub>2</sub>O Emission in the United States**<br>
-with Shuchao Ye and Chaoqun Lu
+with Shuchao Ye and Chaoqun Lu<br>
 
 <div class="paper-extra"><details><summary>Abstract</summary>
 <p class="abstract">Agricultural nitrous oxide (N₂O) emissions in the United States (US) continued to increase while the crop diversity declined since the 1980s, suggesting an important role of cropping-system change. Here we quantify the contribution of crop diversity to US agricultural N₂O emissions by constructing a counterfactual maximum-diversity (Maxi-D) scenario that maintains county-level crop diversity at its 1981 level during 1981–2019. Combining reconstructed crop maps, agricultural management datasets, and process-based ecosystem modelling, we show that maintaining high crop diversity could reduce the growth rate of agricultural N₂O emissions by nearly 50% relative to the historical trajectory. In addition, higher crop diversity slightly reduced the total crop production profit (4%), but the avoided N₂O-related societal costs offset approximately 41% of these losses. Our findings suggest that long-term agricultural specialization substantially amplified US N₂O emissions and that crop diversity could serve as a complementary climate-mitigation strategy alongside conventional N management.</p>
@@ -91,7 +91,7 @@ with Shuchao Ye and Chaoqun Lu
 </details></div>
 
 **Who Pays for Mobile Microgrid Resilience? Demand, Siting Preferences, and Neighborhood Disadvantage**<br>
-with Yu Wang and Wendong Zhang
+with Yu Wang and Wendong Zhang<br>
 
 <div class="paper-extra"><details><summary>Abstract</summary>
 <p class="abstract">We estimate household willingness to pay (WTP) for mobile community microgrids (MCMs), transportable solar-plus-storage units that supply backup power during outages, using a national survey of 1,699 U.S. adults in which the monthly fee is randomly assigned under a dichotomous choice design. The estimated mean WTP is $52 per month, roughly half the modal household’s electricity bill. Popularity and valuation point to different sites. Nearly half of respondents prefer hospital and shelter siting but value it least, at $47 per month, while residential area supporters (16%) have the highest valuation of $61 and low-income-community (26%) supporters show a WTP of $57. WTP rises with the economic disadvantage of the respondent’s neighborhood, not with the local availability of infrastructure including hospitals, shelters, substations and residential houses. Households who view the program as a fiscal burden discount every siting except low-income communities. Supporters of low-income siting are the least price-sensitive group, while support motivated by distributive justice is nearly twice as price-sensitive as others’. Modest fees therefore retain the justice-motivated constituency behind equity-oriented deployment.</p>
