@@ -59,10 +59,11 @@ _Under review, BMJ Public Health_
 
 **Asymmetric Consumer Responses to Competing Sustainability Attributes of Innovation**<br>
 with Jasmin Wehner, Tongzhe Li, and Wendong Zhang
+_With Editor_
 
 <div class="paper-extra"><details><summary>Abstract</summary>
 <p class="abstract">Innovations can improve one environmental attribute while worsening another. We examine whether consumers respond symmetrically to positive and negative information about such trade-offs. In a preregistered lab-in-the-field experiment with 913 adult consumers, a randomized posted-price mechanism elicits willingness to pay (WTP) for cucumbers grown with and without protective netting, an innovation that reduces pesticide use but increases plastic inputs. Via between-subject randomization, participants receive information about reduced pesticide use, increased plastic use, both attributes, or neither. Absent attribute-specific information, consumers are willing to pay a 37 percent premium ($0.81) for the innovation. Relative to the control group, information about increased plastic use reduces WTP for the product grown with the innovation by 46 percent ($1.42), whereas information about reduced pesticide use does not yield a significant effect, but is associated with lower WTP for the product without the innovation. A direct test rejects symmetry between the two effects for the product carrying the innovation. Presenting both attributes simultaneously reduces WTP for the product grown with the innovation by 19 percent ($0.58). The findings show that competing sustainability disclosures generate asymmetric valuation responses and that the composition of disclosed information can materially shape consumer valuation of innovations with mixed environmental effects.</p>
-<p class="presentations"><strong>Presentations:</strong> <span>Chinese Economists Society China Annual Conference (2026)</em></span></p>
+<p class="presentations"><strong>Presentations:</strong> <span>Chinese Economists Society China Annual Conference (2026)</span></p>
 </details></div>
 
 **Rootworm Corn Seed Disadoption: Land Use and Regional Welfare Consequences in the Inner Corn Belt**<br>
